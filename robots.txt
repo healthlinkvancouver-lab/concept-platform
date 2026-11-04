@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://healthlinkvancouver-lab.github.io/concept-platform/sitemap.xml
